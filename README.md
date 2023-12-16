@@ -1,2 +1,3 @@
 # andromeda
-HOla mundo! este es mi primer cambio
+Hola mundo! este es mi primer cambio
+Este es otro cambio
